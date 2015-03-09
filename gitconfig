@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = hugo.barberot@gmail.com
+	name = hugo barberot
